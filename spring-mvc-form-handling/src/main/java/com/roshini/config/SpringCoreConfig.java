@@ -12,7 +12,7 @@ import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseType;
 import javax.sql.DataSource;
 
 @Configuration
-@ComponentScan({ "com.mkyong.user" })
+@ComponentScan({ "com.roshini.user" })
 public class SpringCoreConfig {
 
 	@Autowired
