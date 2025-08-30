@@ -1,7 +1,7 @@
 SPRING 3 MVC + JSON (RAW DATA) PROJECT
 
 Goal:
-This project demonstrates a service-oriented Spring MVC app (version 3.2.2.RELEASE) that returns raw JSON data using Jackson 1.9.10 — no views, no JSP, just pure JSON API like a REST king/queen 👑.
+This project demonstrates a service-oriented Spring MVC app (version 3.2.2.RELEASE) that returns raw JSON data using Jackson 1.9.10 — no views, no JSP, pure JSON API.
 
 Technologies Used:
 
@@ -26,5 +26,6 @@ Run mvn clean install
 Deploy to servlet container (Tomcat, Jetty)
 
 Access endpoint via browser/Postman/curl:
+
 
 url:  http://localhost:8080/SpringMVC/rest/kfc/brands/kfc-kampar
